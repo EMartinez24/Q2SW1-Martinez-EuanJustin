@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.char-image {
+    border: 5px red solid;
+    border-radius: 30px;
+    width: 100px;
+}
+
+.ab-image {
+    width: 200px;
+}
